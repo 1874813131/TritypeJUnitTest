@@ -1,3 +1,5 @@
+package com.selab.tritypejunittest;
+
 import java.io.*;
 
 class TritypeMutantOne
